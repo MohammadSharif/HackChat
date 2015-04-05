@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/gvsaditya/Downloads/FindaHacker-master-6-master/moxtra/res/values-sw600dp-land-v13/values.xml -->
+    <!-- From: file:/Users/Momo/Desktop/HackChat/moxtra/res/values-sw600dp-land-v13/values.xml -->
     <eat-comment/>
     <dimen name="ambilwarna_hsvHeight">210dp</dimen>
     <dimen name="ambilwarna_hsvWidth">380dp</dimen>

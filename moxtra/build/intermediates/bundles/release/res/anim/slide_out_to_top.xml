@@ -19,4 +19,4 @@
     android:duration="@android:integer/config_longAnimTime"
     android:fromYDelta="0"
     android:toYDelta="-100%p" />
-<!-- From: file:/D:/workspace/SDK/ChatSDK/resources/res/anim/slide_out_to_top.xml --><!-- From: file:/Users/gvsaditya/Downloads/FindaHacker-master-6-master/moxtra/res/anim/slide_out_to_top.xml -->
+<!-- From: file:/D:/workspace/SDK/ChatSDK/resources/res/anim/slide_out_to_top.xml --><!-- From: file:/Users/Momo/Desktop/HackChat/moxtra/res/anim/slide_out_to_top.xml -->

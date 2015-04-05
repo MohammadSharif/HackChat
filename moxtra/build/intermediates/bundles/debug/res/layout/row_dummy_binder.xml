@@ -3,4 +3,4 @@
     android:id="@+id/iv_binder_thumbnail"
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
-    android:background="@drawable/binder_creator_bg" /><!-- From: file:/D:/workspace/SDK/ChatSDK/resources/res/layout/row_dummy_binder.xml --><!-- From: file:/Users/gvsaditya/Downloads/FindaHacker-master-6-master/moxtra/res/layout/row_dummy_binder.xml -->
+    android:background="@drawable/binder_creator_bg" /><!-- From: file:/D:/workspace/SDK/ChatSDK/resources/res/layout/row_dummy_binder.xml --><!-- From: file:/Users/Momo/Desktop/HackChat/moxtra/res/layout/row_dummy_binder.xml -->

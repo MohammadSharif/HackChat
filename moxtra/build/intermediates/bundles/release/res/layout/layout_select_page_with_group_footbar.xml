@@ -28,4 +28,4 @@
         android:textColor="@color/moxtra_blue"
         android:textAppearance="?android:attr/textAppearanceMedium"
         android:layout_marginRight="@dimen/header_bar_margin" />
-</RelativeLayout><!-- From: file:/D:/workspace/SDK/ChatSDK/resources/res/layout/layout_select_page_with_group_footbar.xml --><!-- From: file:/Users/gvsaditya/Downloads/FindaHacker-master-6-master/moxtra/res/layout/layout_select_page_with_group_footbar.xml -->
+</RelativeLayout><!-- From: file:/D:/workspace/SDK/ChatSDK/resources/res/layout/layout_select_page_with_group_footbar.xml --><!-- From: file:/Users/Momo/Desktop/HackChat/moxtra/res/layout/layout_select_page_with_group_footbar.xml -->

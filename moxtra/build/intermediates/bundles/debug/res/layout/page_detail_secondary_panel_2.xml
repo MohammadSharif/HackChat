@@ -20,4 +20,4 @@
         android:minHeight="@dimen/page_detail_button_size"
         android:minWidth="@dimen/page_detail_button_size" />
 </RelativeLayout>
-<!-- From: file:/D:/workspace/SDK/ChatSDK/resources/res/layout/page_detail_secondary_panel_2.xml --><!-- From: file:/Users/gvsaditya/Downloads/FindaHacker-master-6-master/moxtra/res/layout/page_detail_secondary_panel_2.xml -->
+<!-- From: file:/D:/workspace/SDK/ChatSDK/resources/res/layout/page_detail_secondary_panel_2.xml --><!-- From: file:/Users/Momo/Desktop/HackChat/moxtra/res/layout/page_detail_secondary_panel_2.xml -->

@@ -50,4 +50,4 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. -->
             android:layout_gravity="right|bottom"
             android:visibility="gone" />
     </FrameLayout>
-</LinearLayout><!-- From: file:/D:/workspace/SDK/ChatSDK/resources/res/layout/adapter_select_photos.xml --><!-- From: file:/Users/gvsaditya/Downloads/FindaHacker-master-6-master/moxtra/res/layout/adapter_select_photos.xml -->
+</LinearLayout><!-- From: file:/D:/workspace/SDK/ChatSDK/resources/res/layout/adapter_select_photos.xml --><!-- From: file:/Users/Momo/Desktop/HackChat/moxtra/res/layout/adapter_select_photos.xml -->

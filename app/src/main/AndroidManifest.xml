@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="momo.findahacker" >
+    package="momo.HackChat" >
 
     <uses-permission android:name="android.permission.INTERNET"/>
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
@@ -19,13 +19,13 @@
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:theme="@style/AppTheme"
-        android:name= "momo.findahacker.MoxtraApplication" >
+        android:name= "momo.HackChat.MoxtraApplication" >
 
         <meta-data android:name="com.moxtra.sdk.ClientId" android:value="oE4NEU_wnJs" />
         <meta-data android:name="com.moxtra.sdk.ClientSecret" android:value="uS2LdAXWkzY" />
 
         <activity
-            android:name=".MainActivity"
+            android:name="momo.HackChat.MainActivity"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -33,20 +33,20 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".LAOptions"></activity>
-        <activity android:name=".BitCampOptions"></activity>
-        <activity android:name=".BrickHackOptions"></activity>
-        <activity android:name=".HackRUOptions"></activity>
-        <activity android:name=".CarlHacksOptions"></activity>
-        <activity android:name=".RedbirdHacksOptions"></activity>
-        <activity android:name=".Project34Options"></activity>
-        <activity android:name=".LACategories"></activity>
-        <activity android:name=".BitCampCategories"></activity>
-        <activity android:name=".BrickHackCategories"></activity>
-        <activity android:name=".HackRUCategories"></activity>
-        <activity android:name=".CarlHacksCategories"></activity>
-        <activity android:name=".RedbirdHacksCategories"></activity>
-        <activity android:name=".Project34Categories"></activity>
+        <activity android:name="momo.HackChat.LAOptions"></activity>
+        <activity android:name="momo.HackChat.BitCampOptions"></activity>
+        <activity android:name="momo.HackChat.BrickHackOptions"></activity>
+        <activity android:name="momo.HackChat.HackRUOptions"></activity>
+        <activity android:name="momo.HackChat.CarlHacksOptions"></activity>
+        <activity android:name="momo.HackChat.RedbirdHacksOptions"></activity>
+        <activity android:name="momo.HackChat.Project34Options"></activity>
+        <activity android:name="momo.HackChat.LACategories"></activity>
+        <activity android:name="momo.HackChat.BitCampCategories"></activity>
+        <activity android:name="momo.HackChat.BrickHackCategories"></activity>
+        <activity android:name="momo.HackChat.HackRUCategories"></activity>
+        <activity android:name="momo.HackChat.CarlHacksCategories"></activity>
+        <activity android:name="momo.HackChat.RedbirdHacksCategories"></activity>
+        <activity android:name="momo.HackChat.Project34Categories"></activity>
 
         <activity
             android:name="com.moxtra.binder.conversation.MXConversationActivity"
@@ -66,10 +66,10 @@
             android:name="com.moxtra.binder.livemeet.LiveMeetActivity"
             android:launchMode="singleTask"
             android:theme="@style/MoxtraTheme"
-            android:parentActivityName="momo.findahacker.MainActivity">
+            android:parentActivityName="momo.HackChat.MainActivity">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="momo.findahacker.MainActivity"/>
+                android:value="momo.HackChat.MainActivity"/>
         </activity>
 
         <activity

@@ -22,4 +22,4 @@
     <!--item android:state_activated="true" android:color="@color/vpi__bright_foreground_holo_dark"/-->
     <item android:color="@color/vpi__bright_foreground_holo_dark"/> <!-- not selected -->
 </selector>
-<!-- From: file:/D:/workspace/SDK/ChatSDK/resources/res/color/vpi__dark_theme.xml --><!-- From: file:/Users/gvsaditya/Downloads/FindaHacker-master-6-master/moxtra/res/color/vpi__dark_theme.xml -->
+<!-- From: file:/D:/workspace/SDK/ChatSDK/resources/res/color/vpi__dark_theme.xml --><!-- From: file:/Users/Momo/Desktop/HackChat/moxtra/res/color/vpi__dark_theme.xml -->

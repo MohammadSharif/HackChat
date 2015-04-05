@@ -45,4 +45,4 @@
         android:layout_gravity="bottom" />
 
     <include layout="@layout/network_indication" />
-</FrameLayout><!-- From: file:/D:/workspace/SDK/ChatSDK/resources/res/layout/activity_live_meet.xml --><!-- From: file:/Users/gvsaditya/Downloads/FindaHacker-master-6-master/moxtra/res/layout/activity_live_meet.xml -->
+</FrameLayout><!-- From: file:/D:/workspace/SDK/ChatSDK/resources/res/layout/activity_live_meet.xml --><!-- From: file:/Users/Momo/Desktop/HackChat/moxtra/res/layout/activity_live_meet.xml -->

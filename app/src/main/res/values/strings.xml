@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Find a Hacker</string>
+    <string name="app_name">HackChat</string>
 
     <string name="hackathons">Hackathons</string>
     <string name="action_settings">Settings</string>

@@ -11,4 +11,4 @@
 		android:fromAlpha="1.0" android:toAlpha="0.0"
 		android:duration="@android:integer/config_shortAnimTime"
 	/>
-</set><!-- From: file:/D:/workspace/SDK/ChatSDK/resources/res/anim/shrink_from_topleft_to_bottomright.xml --><!-- From: file:/Users/gvsaditya/Downloads/FindaHacker-master-6-master/moxtra/res/anim/shrink_from_topleft_to_bottomright.xml -->
+</set><!-- From: file:/D:/workspace/SDK/ChatSDK/resources/res/anim/shrink_from_topleft_to_bottomright.xml --><!-- From: file:/Users/Momo/Desktop/HackChat/moxtra/res/anim/shrink_from_topleft_to_bottomright.xml -->

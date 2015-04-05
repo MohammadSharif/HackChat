@@ -53,4 +53,4 @@
             layout="@layout/page_detail_record_panel" />
     </ViewSwitcher>
 
-</com.moxtra.binder.pageview.PageViewToolbar><!-- From: file:/D:/workspace/SDK/ChatSDK/resources/res/layout/clip_sdk_page_view_header.xml --><!-- From: file:/Users/gvsaditya/Downloads/FindaHacker-master-6-master/moxtra/res/layout/clip_sdk_page_view_header.xml -->
+</com.moxtra.binder.pageview.PageViewToolbar><!-- From: file:/D:/workspace/SDK/ChatSDK/resources/res/layout/clip_sdk_page_view_header.xml --><!-- From: file:/Users/Momo/Desktop/HackChat/moxtra/res/layout/clip_sdk_page_view_header.xml -->

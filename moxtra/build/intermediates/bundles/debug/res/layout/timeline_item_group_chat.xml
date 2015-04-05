@@ -199,4 +199,4 @@
         android:layout_toRightOf="@+id/layout_badge"
         android:layout_below="@+id/layout_badge"/>
 
-</RelativeLayout><!-- From: file:/D:/workspace/SDK/ChatSDK/resources/res/layout/timeline_item_group_chat.xml --><!-- From: file:/Users/gvsaditya/Downloads/FindaHacker-master-6-master/moxtra/res/layout/timeline_item_group_chat.xml -->
+</RelativeLayout><!-- From: file:/D:/workspace/SDK/ChatSDK/resources/res/layout/timeline_item_group_chat.xml --><!-- From: file:/Users/Momo/Desktop/HackChat/moxtra/res/layout/timeline_item_group_chat.xml -->

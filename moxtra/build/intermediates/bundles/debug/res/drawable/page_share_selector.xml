@@ -3,4 +3,4 @@
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:drawable="@drawable/page_share_disabled" android:state_enabled="false" />
     <item android:drawable="@drawable/page_share" />
-</selector><!-- From: file:/D:/workspace/SDK/ChatSDK/resources/res/drawable/page_share_selector.xml --><!-- From: file:/Users/gvsaditya/Downloads/FindaHacker-master-6-master/moxtra/res/drawable/page_share_selector.xml -->
+</selector><!-- From: file:/D:/workspace/SDK/ChatSDK/resources/res/drawable/page_share_selector.xml --><!-- From: file:/Users/Momo/Desktop/HackChat/moxtra/res/drawable/page_share_selector.xml -->

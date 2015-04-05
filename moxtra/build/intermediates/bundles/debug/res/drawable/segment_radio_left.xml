@@ -8,4 +8,4 @@
 	<item android:state_checked="false"  android:drawable="@drawable/segment_radio_white_left" /> 
 	<item android:drawable="@drawable/segment_radio_grey_left" /> 	<!-- default  -->
 	
-</selector><!-- From: file:/D:/workspace/SDK/ChatSDK/resources/res/drawable/segment_radio_left.xml --><!-- From: file:/Users/gvsaditya/Downloads/FindaHacker-master-6-master/moxtra/res/drawable/segment_radio_left.xml -->
+</selector><!-- From: file:/D:/workspace/SDK/ChatSDK/resources/res/drawable/segment_radio_left.xml --><!-- From: file:/Users/Momo/Desktop/HackChat/moxtra/res/drawable/segment_radio_left.xml -->
